@@ -5,7 +5,7 @@ import { ProductsScreen, FavoritesScreen } from './screens';
 
 const AppNavigator = createBottomTabNavigator({
   ProductsScreen,
-  FavoritesScreen
+  FavoritesScreen,
 });
 
 export default createAppContainer(AppNavigator);
