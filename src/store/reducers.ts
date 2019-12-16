@@ -1,5 +1,3 @@
-export default () => {
-  return {
-    test: {},
-  };
-};
+export default () => ({
+  test: {},
+});

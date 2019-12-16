@@ -1,3 +1,3 @@
-import ProductsStack from './navigation';
+import ProductsScreen from './ProductScreen';
 
-export default ProductsStack;
+export default ProductsScreen;
