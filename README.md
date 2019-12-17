@@ -1,1 +1,1 @@
-# DrClaudersMobile
+# React Native Typescript Template
